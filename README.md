@@ -18,7 +18,7 @@
 - **XML Data & SQL Integration**: Extracted and converted SQL datasets into XML for AML reporting and financial crime analysis.
 - **Automated Reporting**: Built automated reporting solutions using Looker, SuperSet, Snowflake, R, and Python, improving operational efficiency.
 - **KPI Tracking & Dashboards**: Developed KPI dashboards to monitor team performance and support data-driven decisions.
-- **Data Optimization & Automation**: Streamlined data workflows, automating ETL processes to enhance accuracy and efficiency.
+- **Data Optimization & Automation**: Streamlined data workflows, automating Extract, transform, load (ETL) processes to enhance accuracy and efficiency.
 - **Complex Data Analysis**: Analyzed AML data to identify trends and optimize compliance processes.
 
 ## Hanwha Group / Project Manager
