@@ -2,7 +2,7 @@
 
 ---
 
-# Skills
+# ***Skills***
 - [**Programming Languages** (GoLang, JavaScript, Git, Bash)](https://github.com/bob-606/)
 - [**Data Analysis** (R, Python)](https://github.com/bob-606/)
 - **Blockchain Analysis** (PoW and PoS protocols)
@@ -12,7 +12,7 @@
   
 ---
 
-# Experience
+# ***Experience***
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
 - **XML Data & SQL Integration**: Extracted and converted SQL datasets into XML for AML reporting and financial crime analysis.
@@ -35,7 +35,7 @@
 
 ---
 
-# Education
+# ***Education***
 ## kood/Jõhvi / Full-stack Developer Course
 **SEPTEMBER 2023 – NOVEMBER 2024, ESTONIA**
 - **Coding for Solutions**: Developing problem-solving techniques (e.g., GoLang; JavaScript) via coding challenges.
@@ -53,7 +53,7 @@
 
 ---
 
-# Portfolio 
+# ***Portfolio***
 - https://kood.jjl.ch/
 - https://todo.jjl.ch/
 - https://bomb.jjl.ch/
