@@ -54,10 +54,10 @@
 ---
 
 # ***Portfolio***
-- https://kood.jjl.ch/
-- https://todo.jjl.ch/
-- https://bomb.jjl.ch/
-- https://circa.jjl.ch/
-- https://github.com/bob-606/net-cat
-- https://github.com/bob-606/lem-in
-- https://github.com/bob-606/MSIT_5216
+- [kood](https://kood.jjl.ch/)
+- [todo](https://todo.jjl.ch/)
+- [bomb](https://bomb.jjl.ch/)
+- [circa](https://circa.jjl.ch/)
+- [net-cat](https://github.com/bob-606/net-cat)
+- [lem-in](https://github.com/bob-606/lem-in)
+- [MSIT_5216 (DBMS)](https://github.com/bob-606/MSIT_5216)
