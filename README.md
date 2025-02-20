@@ -3,8 +3,8 @@
 ---
 
 # Skills
-- **Programming Languages** (GoLang, JavaScript, Git, Bash)
-- **Data Analysis** (R, Python)
+- [**Programming Languages** (GoLang, JavaScript, Git, Bash)](https://github.com/bob-606/)
+- [**Data Analysis** (R, Python)](https://github.com/bob-606/)
 - **Blockchain Analysis** (PoW and PoS protocols)
 - **Multilingual Proficiency** (English, Japanese, Korean)
 - **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT)
@@ -50,3 +50,10 @@
 **SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
 - **Accelerated Graduation Program**: Successfully completed a rigorous program in 3 years, reduced from the traditional 4-year duration.
 - **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
+
+---
+
+# Portfolio 
+-
+-
+-
