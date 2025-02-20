@@ -3,8 +3,8 @@
 ---
 
 # ***Skills***
-- [**Programming Languages** (GoLang, JavaScript, Git, Bash)](https://github.com/bob-606/)
-- [**Data Analysis** (R, Python)](https://github.com/bob-606/)
+- [**Programming Languages** (e.g., Go, JS, Git, Bash)](https://github.com/bob-606/)
+- [**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/)
 - **Blockchain Analysis** (PoW and PoS protocols)
 - **Multilingual Proficiency** (English, Japanese, Korean)
 - **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT)
