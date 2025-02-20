@@ -1,13 +1,17 @@
 # whoami
+
 ---
+
 # Skills
-- **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT)
 - **Programming Languages** (GoLang, JavaScript, Git, Bash)
 - **Data Analysis** (R, Python)
 - **Blockchain Analysis** (PoW and PoS protocols)
 - **Multilingual Proficiency** (English, Japanese, Korean)
+- **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT)
 - **Project Management**
+  
 ---
+
 # Experience
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
@@ -28,7 +32,9 @@
 - **Military Intelligence**: Conducted multi-source intelligence operations to identify and assess national security threats, including cybercrime and terrorism.
 - **Operational Intelligence**: Integrated OSINT, HUMINT, and FININT to provide actionable intelligence for defense operations, ensuring national security.
 - **Threat Assessment & Reporting**: Delivered comprehensive intelligence reports on high-risk individuals and entities.
+
 ---
+
 # Education
 ## kood/Jõhvi / Full-stack Developer Course
 **SEPTEMBER 2023 – NOVEMBER 2024, ESTONIA**
