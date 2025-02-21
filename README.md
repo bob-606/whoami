@@ -1,6 +1,8 @@
-# whoami (email: kood@jjl.ch)
+# whoami
+## **(kood@jjl.ch; [Github](https://github.com/bob-606/))**
 
 ---
+
 # ***Skillset & Portfolio***
 
 | **Skill**                      | **Project**                                                                                 |
