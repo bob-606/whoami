@@ -15,7 +15,7 @@
 # ***Experience***
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
-- **Data Integration**: Extracted and converted SQL datasets into XML for AML reporting and financial crime analysis.
+- **Data Integration**: Extracted and converted SQL datasets into XML for AML reporting and FinCrime analysis.
 - **Automated Reporting**: Built automated solutions using Looker, SuperSet, Snowflake, R, and Python.
 - **KPI Tracking & Dashboards**: Developed KPI dashboards to support data-driven decisions.
 - **Data Optimization & Automation**: Streamlined Extract-Transform-Load (ETL) processes to enhance efficiency.
@@ -25,11 +25,11 @@
 **JANUARY 2019 – DECEMBER 2019, IRAQ**
 - **Project Management**: Led initiatives to develop tools and systems for analyzing activities in volatile regions.
 - **All-Source Research**: Directed the collection of intelligence from open sources, including the dark web.
-- **KYC & Corporate Due Diligence**: Performed background checks using confidential databases for compliance and due diligence.
+- **KYC & Corporate Due Diligence**: Performed background checks using confidential databases. 
 
 ## ROKAF / Intelligence Officer
 **DECEMBER 2013 – DECEMBER 2018, REPUBLIC OF KOREA**
-- **Military Intelligence**: Conducted multi-source intelligence operations to identify and assess national security threats.
+- **Military Intelligence**: Conducted multi-source intelligence operations to identify national security threats.
 - **Operational Intelligence**: Provided actionable intelligence for defense operations, ensuring national security.
 - **Threat Assessment & Reporting**: Delivered intelligence reports on high-risk individuals and entities.
 
