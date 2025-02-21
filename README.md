@@ -54,6 +54,7 @@
 ---
 
 # ***Portfolio***
+- [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)
 - [kood](https://kood.jjl.ch/)
 - [todo](https://todo.jjl.ch/)
 - [bomb](https://bomb.jjl.ch/)
