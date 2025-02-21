@@ -1,5 +1,5 @@
 # whoami
-## **(kood@jjl.ch; [Github](https://github.com/bob-606/))**
+## **([kood@jjl.ch](mailto:kood@jjl.ch); [Github](https://github.com/bob-606/))**
 
 ---
 
