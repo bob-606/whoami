@@ -1,4 +1,4 @@
-# whoami
+# whoami (email: kood@jjl.ch)
 
 ---
 # ***Skillset & Portfolio***
