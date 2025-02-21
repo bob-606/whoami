@@ -21,7 +21,7 @@
 - [**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/)
 - **Blockchain Analysis** (PoW and PoS protocols)
 - **Multilingual Proficiency** (English, Japanese, Korean)
-- **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT)
+- **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT)
 - **Project Management**
   
 ---
