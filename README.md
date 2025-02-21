@@ -1,9 +1,9 @@
 # whoami
 
 ---
-# ***Skills & Portfolio***
+# ***Skillset & Portfolio***
 
-| **Skill**                      | **Portfolio/Project**                                                                                 |
+| **Skill**                      | **Project**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | [**Programming Languages** (e.g., Go, JS, Git, Bash)](https://github.com/bob-606/)| [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 |[**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/) | [MSIT_5216](https://github.com/bob-606/MSIT_5216) |
@@ -14,16 +14,6 @@
 | **Full-stack Development**      | [circa](https://circa.jjl.ch/)|
 | **Database Management**         | [lem-in](https://github.com/bob-606/lem-in)|
 
----
-
-# ***Skills***
-- [**Programming Languages** (e.g., Go, JS, Git, Bash)](https://github.com/bob-606/)
-- [**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/)
-- **Blockchain Analysis** (PoW and PoS protocols)
-- **Multilingual Proficiency** (English, Japanese, Korean)
-- **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT)
-- **Project Management**
-  
 ---
 
 # ***Experience***
@@ -66,13 +56,3 @@
 - **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
 
 ---
-
-# ***Portfolio***
-- [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)
-- [kood](https://kood.jjl.ch/)
-- [todo](https://todo.jjl.ch/)
-- [bomb](https://bomb.jjl.ch/)
-- [circa](https://circa.jjl.ch/)
-- [net-cat](https://github.com/bob-606/net-cat)
-- [lem-in](https://github.com/bob-606/lem-in)
-- [MSIT_5216 (DBMS)](https://github.com/bob-606/MSIT_5216)
