@@ -6,7 +6,7 @@
 | **Skill**                      | **Portfolio/Project**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | [**Programming Languages** (e.g., Go, JS, Git, Bash)](https://github.com/bob-606/)| [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
-|[**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/) | [MSIT_5216 (DBMS)](https://github.com/bob-606/MSIT_5216) |
+|[**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/) | [MSIT_5216](https://github.com/bob-606/MSIT_5216) |
 | **Blockchain Analysis** (PoW, PoS protocols) | [kood](https://kood.jjl.ch/)|
 | **Multilingual Proficiency** (English, Japanese, Korean) | [todo](https://todo.jjl.ch/) |
 | **Intelligence Analysis** (FININT, OSINT, HUMINT, IMINT, GEOINT) | [net-cat](https://github.com/bob-606/net-cat)|
