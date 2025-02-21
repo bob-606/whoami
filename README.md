@@ -48,7 +48,7 @@
 
 ## Ritsumeikan Asia Pacific University / Bachelor of Business Administration
 **SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
-- **Accelerated Graduation Program**: Successfully completed the course in 3 years instead of the traditional 4-year duration.
+- **Accelerated Graduation Program**: Completed the course in 3 years instead of the traditional 4-year duration.
 - **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
 
 ---
