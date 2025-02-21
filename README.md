@@ -46,7 +46,7 @@
 - **Technical Proficiency**: Acquired a solid foundation in Electrical and Electronic Engineering.
 - **Regional Expertise**: Complemented technical studies with a minor in Chinese Studies.
 
-## Ritsumeikan Asia Pacific University / Bachelor of Business Administration
+## Ritsumeikan Asia Pacific University / Bachelor of Business Admin.
 **SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
 - **Accelerated Graduation Program**: Completed the course in 3 years instead of the traditional 4-year duration.
 - **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
