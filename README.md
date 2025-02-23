@@ -8,14 +8,14 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 | **Skill**                      | **Project**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
-| [**Programming Languages** (e.g., Go, JS, Git, Bash)](https://github.com/bob-606/)| [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
-|[**Data Analysis** (e.g., R, Python)](https://github.com/bob-606/) | [MSIT_5216](https://github.com/bob-606/MSIT_5216) |
-| **Blockchain Analysis** (PoW, PoS protocols) | [kood](https://kood.jjl.ch/)|
-| **Multilingual Proficiency** (English, Japanese, Korean) | [todo](https://todo.jjl.ch/) |
-| **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [net-cat](https://github.com/bob-606/net-cat)|
-| **Project Management**          | [bomb](https://bomb.jjl.ch/)|
-| **Operating Systems**      | [circa](https://circa.jjl.ch/)|
-| **Database Management**         | [lem-in](https://github.com/bob-606/lem-in)|
+| **[Programming Languages(e.g., Go, JS, Git, Bash)](https://github.com/bob-606)**  | [bomb](https://bomb.jjl.ch/) ([Repo](https://github.com/bob-606/bomb))
+| **[Data Analysis(e.g., R, Python)](https://github.com/bob-606)**  | [MSIT_5216](https://github.com/bob-606/MSIT_5216) |
+| **Blockchain Analysis** (PoW, PoS protocols) | [kood](https://kood.jjl.ch/)|  | [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
+| **Multilingual Proficiency** (English, Japanese, Korean) | [narva.hi](https://www.duolingo.com/profile/narva.hi) |
+| **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [lem-in](https://github.com/bob-606/lem-in)|
+| **Project Management**      | [circa](https://circa.jjl.ch/)|
+| **Operating Systems**       | [net-cat](https://github.com/bob-606/net-cat)|
+| **Database Management**        | [kood](https://kood.jjl.ch/)|
 
 ---
 
