@@ -1,6 +1,6 @@
 # whoami
 ## **([Github](https://github.com/bob-606/); [☎️](tel:+37258802547); [📧](mailto:kood@jjl.ch); [TG](https://t.me/musubito))**
-* these are click able action items w/ legitimate links (i.e., no tracker or malware).
+NB!these are click able action items w/ legitimate links (i.e., no tracker or malware).
 
 ---
 
