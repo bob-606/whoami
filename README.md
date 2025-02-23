@@ -10,7 +10,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | **[Programming Languages (e.g., Go, JS, Git, Bash)](https://github.com/bob-606)**  | [bomb](https://bomb.jjl.ch/) ([Repo](https://github.com/bob-606/bomb))
 | **[Data Analysis (e.g., R, Python)](https://github.com/bob-606)**  | [MSIT_5216](https://github.com/bob-606/MSIT_5216) |
-| **Blockchain Analysis** (PoW, PoS protocols) | [kood](https://kood.jjl.ch/)|  [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
+| **Blockchain Analysis** (PoW, PoS protocols)  [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 | **Multilingual Proficiency** (English, Japanese, Korean) | [narva.hi](https://www.duolingo.com/profile/narva.hi) |
 | **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [lem-in](https://github.com/bob-606/lem-in)|
 | **Project Management**      | [circa](https://circa.jjl.ch/)|
