@@ -13,7 +13,7 @@
 | **Multilingual Proficiency** (English, Japanese, Korean) | [todo](https://todo.jjl.ch/) |
 | **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [net-cat](https://github.com/bob-606/net-cat)|
 | **Project Management**          | [bomb](https://bomb.jjl.ch/)|
-| **Full-stack Development**      | [circa](https://circa.jjl.ch/)|
+| **Operating Systems**      | [circa](https://circa.jjl.ch/)|
 | **Database Management**         | [lem-in](https://github.com/bob-606/lem-in)|
 
 ---
