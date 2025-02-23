@@ -1,5 +1,5 @@
 # whoami
-## **([+372.5520.808](tel:+37258802547); [kood@jjl.ch](mailto:kood@jjl.ch); [Github](https://github.com/bob-606/); [TG](https://t.me/musubito))**
+## **([Github](https://github.com/bob-606/); [☎️](tel:+37258802547); [📧](mailto:kood@jjl.ch); [TG](https://t.me/musubito))**
 
 ---
 
