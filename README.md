@@ -14,7 +14,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 | **Multilingual Proficiency** (English, Japanese, Korean) | [narva.hi](https://www.duolingo.com/profile/narva.hi) |
 | **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [lem-in](https://github.com/bob-606/lem-in)|
 | **Project Management**      | [circa](https://circa.jjl.ch/)|
-| **Operating Systems**       | [net-cat](https://github.com/bob-606/net-cat)|
+| **Operating Systems (e.g., Ubuntu, Debian, TailOS)**       | [net-cat](https://github.com/bob-606/net-cat)|
 | **Database Management**        | [kood](https://kood.jjl.ch/)|
 
 ---
