@@ -54,5 +54,4 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 **SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
 - **Accelerated Graduation Program**: Completed the course in 3 years instead of the traditional 4-year duration.
 - **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
-
 ---
