@@ -6,13 +6,12 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 | **Skill**                      | **Project**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | **[Programming & Scripting](https://github.com/bob-606)** (e.g., Go, JS, Git, Bash) | [bomb](https://bomb.jjl.ch/) ([Repo](https://github.com/bob-606/bomb))
-| **[Data Analysis](https://github.com/bob-606)** (e.g., R, Python) | [MSIT-5226](https://github.com/bob-606/MSIT-5226) |
+| **[Data Analysis & DBMS](https://github.com/bob-606)** (e.g., R, Python) | [MSIT-5226](https://github.com/bob-606/MSIT-5226); [kood](https://kood.jjl.ch/) |
 | **Operating Systems** (e.g., Ubuntu, Debian, TailOS)       | [net-cat](https://github.com/bob-606/net-cat)|
 | **Blockchain Analysis** (PoW, PoS protocols)  | [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 | **Multilingual Proficiency** (English, Japanese, Korean) | [narva.hi](https://www.duolingo.com/profile/narva.hi) |
 | **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [lem-in](https://github.com/bob-606/lem-in)|
 | **Project Management**      | [circa](https://circa.jjl.ch/)|
-| **Database Management**        | [kood](https://kood.jjl.ch/)|
 
 ---
 
