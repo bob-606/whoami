@@ -1,8 +1,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| I really believe that if you practice enough you   |
-| could paint the 'Mona Lisa' with a two-inch brush. |
+| Don't forget to tell these special people in your  |
+| life just how special they are to you.             |
 |                                                    |
  ----------------------------------------------------
       \
