@@ -1,10 +1,10 @@
 ```
- ----------------------------------------------------
-|                                                    |
-| Don't forget to tell these special people in your  |
-| life just how special they are to you.             |
-|                                                    |
- ----------------------------------------------------
+ -------------------------------------------------
+|                                                 |
+| Don't forget to tell these special people in    |
+| your life just how special they are to you.     |
+|                                                 |
+ -------------------------------------------------
       \
        \
         \        
